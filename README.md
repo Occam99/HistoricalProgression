@@ -237,6 +237,7 @@ CC-BY-NC-SA (http://creativecommons.org/licenses/by-nc-sa/4.0/)
 * Removed "weight" variable (deprecated)
 * Fix typo in Cassini Mission
 * Bumped Contract Configurator version requirement to 1.16
+The above changes will let it load in KSP 1.5.1 and CC 1.26 without throwing warnings
 
 1.6 - April 24, 2017
 * Small fixes to many missions to fix completion issues
