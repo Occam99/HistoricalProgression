@@ -242,6 +242,7 @@ CC-BY-NC-SA (http://creativecommons.org/licenses/by-nc-sa/4.0/)
 * Small fixes to many missions to fix completion issues
 * Fix to STS-41B by removing the EVA as it was not working correctly
 * Fix Apollo Rover missions by allowing player to accopmlish mission using a separate craft from lander
+* These fixes will only enable loading into KSP 1.51 with CC 1.26 without dropping warnings in the log or CC debug
 
 1.5 - March 6, 2017
 * Fixed secondary Apoapsis in Apollo 4 to make it be on the correct side of the Mun in stock sizes!
